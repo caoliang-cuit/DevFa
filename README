@@ -1,4 +1,4 @@
-PASSWORD:12345
-Alloy is installed in/home/wq/
-Start running under alloy/bin/ /alloy   
-The file is under Data in allocation/
+Alloy is installed.
+Start running under alloy/bin/    ./alloy   
+The alloy-verify file is under Data/Alloy.
+The class diagrams and sequence diagrams in the paper were created using EA software and stored in Data/EA files.
