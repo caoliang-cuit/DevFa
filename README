@@ -1,4 +1,6 @@
-Alloy is installed.
-Start running under alloy/bin/    ./alloy   
-The alloy-verify file is under Data/Alloy.
+The ALloy version we installed is alloy-6.2.0.
+The download website for Alloy Analyzer is https://alloytools.org/download.html
+
+Start running under alloy/bin/    ./alloy 
+The alloy-verify file is under Data/Alloy
 The class diagrams and sequence diagrams in the paper were created using EA software and stored in Data/EA files.
