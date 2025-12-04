@@ -4,4 +4,5 @@ The download website for Alloy Analyzer is https://alloytools.org/download.html
 
 Start running under alloy/bin/    ./alloy 
 The alloy-verify file is under Data/Alloy
+The four modeling artifacts of the case studies in the paper are under data/artifacts.
 The class diagrams and sequence diagrams in the paper were created using EA software and stored in Data/EA files.
